@@ -1,11 +1,11 @@
 
     <footer class="footer">
 				<div class="pull-center">
-				<img class="stilogo" src="../LMS/footer.png" class="img-rounded">
+				<img class="stilogo" src="../LMS/FOOTER.png" class="img-rounded">
 				</div>
       <div class="container">
 	  <div class="foot-margin">
-        <p><a></br>VIT University . All Rights Reserved. Developed by <a href="https://facebook.com/vinit.shahdeo" target="_blank">Vinit Shahdeo</a></p>
+        <p><a></br>Beijing Institute of Technology . All Rights Reserved. Developed by <a href="https://google.com/" target="_blank">BEASTS</a></p>
       </div>
       </div>
     </footer>
